@@ -1,0 +1,13 @@
+a{
+  color: red;
+  transition: color 1.5s  ease;
+}
+
+a:hover{
+  color: #fdd6ba;
+}
+
+body{
+  background-color: gray;
+}
+
